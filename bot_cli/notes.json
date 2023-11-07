@@ -1,0 +1,23 @@
+[
+    {
+        "note": "Replaced note",
+        "tags": [
+            "BBB",
+            "DDD"
+        ]
+    },
+    {
+        "note": "My third note",
+        "tags": []
+    },
+    {
+        "note": "Don't forget to meet mom",
+        "tags": [
+            "saturday"
+        ]
+    },
+    {
+        "note": "MyNote",
+        "tags": []
+    }
+]
